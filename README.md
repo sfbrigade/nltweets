@@ -6,7 +6,7 @@ This project is a part of the [Data Science Working Group](http://datascience.co
 #### -- Project Status: [In Discovery]
 
 ## Project Intro/Objective
-
+See the [Wiki!](https://github.com/sfbrigade/nltweets/wiki)
 ### Methods Used
 
 ### Technologies
