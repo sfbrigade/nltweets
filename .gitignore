@@ -1,1 +1,9 @@
+# Jupyter Notebooks
+*-checkpoint.ipynb
 *ipynb_checkpoints*
+.python-version
+
+# PyCharm
+.idea/workspace.xml
+.idea/*
+.idea/
