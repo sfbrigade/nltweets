@@ -11,6 +11,7 @@ The "/main" folder is for production code and has 4 sub folders:
 * /code
 * /pipeline
 * /output
+
 Use "/sandbox" folder for storing experiments and playing around. "/outreach" is for organizing materials for producing presentations.
 
 
