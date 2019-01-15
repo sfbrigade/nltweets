@@ -1,0 +1,10 @@
+name: nltweets
+channels:
+- conda-forge
+- defaults
+dependencies:
+  - python=3.6.0
+  - ipykernel=4.6.1
+  - tweepy=3.6.0
+prefix: /home/vla/anaconda3/envs/nltweets
+
