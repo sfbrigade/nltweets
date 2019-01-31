@@ -32,12 +32,12 @@ Use "/sandbox" folder for storing experiments and playing around. "/outreach" is
 
 Please go to the [Onboarding](./onboarding) docs to start contributing to this project!
 
-## Contributing DSWG Members
+## Contributing NLTweets Members
 
 |Name     |  Slack Handle   |
 |---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+|[Daniel Zou](https://github.com/[pahdo])| @daniel.zou        |
+|[Josh Freivogel](https://github.com/[frhino]) |     @Josh Freivogel    |
 
 ## Contact
 * If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
