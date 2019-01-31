@@ -23,14 +23,11 @@ Use "/sandbox" folder for storing experiments and playing around. "/outreach" is
 
 ### Technologies
 * Python
+* Spacy
+* scikit-learn
+* gensim
 
 ### Overview
-
-## Needs of this project
-
-## Getting Started
-
-Please go to the [Onboarding](./onboarding) docs to start contributing to this project!
 
 ## Contributing NLTweets Members
 
