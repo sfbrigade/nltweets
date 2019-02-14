@@ -12,3 +12,6 @@
 .DS_Store
 
 twitter_credentials.json
+
+# Twitter Output Data
+*.csv
