@@ -17,7 +17,7 @@ You'll add "twitter_credentials.json" inside your ".gitignore" file and it might
 twitter_credentials.json
 ```
 
-Your code will be able to use your credentials when run on your local machine, such as ["tweets3.ipynb"](https://github.com/sfbrigade/nltweets/blob/master/twitter/tweet3.ipynb) includes:
+Your code will be able to use your credentials when run on your local machine. Make sure the notebook uses a relative path if credentials file is stored in data folder. This snippet in ["tweets3.ipynb"](https://github.com/sfbrigade/nltweets/blob/master/twitter/tweet3.ipynb) demonstates how to use the credentials file:
 
 ```
 /# Twitter API credentials
