@@ -13,5 +13,9 @@
 
 twitter_credentials.json
 
+keys
+
+keys.pub
+
 # Twitter Output Data
 *.csv
