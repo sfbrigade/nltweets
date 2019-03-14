@@ -33,9 +33,9 @@ Use "/sandbox" folder for storing experiments and playing around. "/outreach" is
 
 |Name     |  Slack Handle   |
 |---------|-----------------|
-|[Daniel Zou](https://github.com/[pahdo])| @daniel.zou        |
-|[Josh Freivogel](https://github.com/[frhino]) |     @Josh Freivogel    |
-|[Nathan Chau](https://github.com/[nathanhc]) | @Nathan Chau  |
+|[Daniel Zou](https://github.com/pahdo)| @daniel.zou        |
+|[Josh Freivogel](https://github.com/frhino) |     @Josh Freivogel    |
+|[Nathan Chau](https://github.com/nathanhc) | @Nathan Chau  |
 
 ## Contact
 * If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
