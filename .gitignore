@@ -15,3 +15,4 @@ twitter_credentials.json
 
 # Twitter Output Data
 *.csv
+*.xlsx
